@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"/>  
 
-## Mini Python Quiz
+## MINI-PYTHON-QUIZ
 
 🎯 **Mini Python Quiz** – A tiny but mighty Python project that tests your brain with zero loops and maximum fun!  
 🚫 No loops. ✅ Just pure IF-statement power!  
